@@ -20,10 +20,10 @@ You'll need a C compiler such as `gcc` installed on your system.
 
 To compile the program, run the following command in your terminal:
 
-bash
+Terminal:
 `gcc calculator.c -o calculator`
 
 ### Running application
 
-bash
+Terminal:
 `./calc`
